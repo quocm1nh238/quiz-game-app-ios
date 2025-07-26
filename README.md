@@ -43,6 +43,6 @@
 - Richa0305, Harsivo Edu. 2021. SwiftUI Quiz App with MVVM complete explanation. [online] Available at: <https://www.youtube.com/watch?v=ETb_Wtitg7U> [Accessed 25 August 2022].
 
 ## ✍️ Author
-- Nguyen Quoc Minh - s3758994@rmit.edu.vn / rjichado@gmail.com
+- Nguyen Quoc Minh - s3758994@rmit.edu.vn / quocminh.nguyen.dev@gmail.com
 
 
