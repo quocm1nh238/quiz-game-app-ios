@@ -1,7 +1,7 @@
 # Quiz-Game
 
 <p align="center">
-  <img width="100" src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/icon.jpeg">
+  <img width="100" src="https://github.com/quocm1nh238/quiz-game-app-ios/blob/main/screenshots/icon.jpeg">
 </p>
 
 <p align="center">"Let's sharp your brain!"</p>
@@ -14,7 +14,7 @@
 - Furthermore, the app also has sound effects for each View and button which enhance the user experience during using the app.
 - Extra Feature of this app is that Player can choose the one of three difficulty modes in Menu View before the game they play to make the game harder. Another extra feature is that Leaderboard View shows different player achievement when they reach new milestones in the game.
 
-<img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/WelcomeView.png" width="238" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/InfoView.png" width="238" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/MenuView.png" width="239" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/GameView.png" width="239" > <img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/LeaderboardView.png" width="239" >
+<img src="https://github.com/quocm1nh238/quiz-game-app-ios/blob/main/screenshots/WelcomeView.png" width="238" > <img src="https://github.com/quocm1nh238/quiz-game-app-ios/blob/main/screenshots/InfoView.png" width="238" > <img src="https://github.com/quocm1nh238/quiz-game-app-ios/blob/main/screenshots/MenuView.png" width="239" > <img src="https://github.com/quocm1nh238/quiz-game-app-ios/blob/main/screenshots/GameView.png" width="239" > <img src="https://github.com/quocm1nh238/quiz-game-app-ios/blob/main/screenshots/LeaderboardView.png" width="239" >
 
 ## 🔮 Live Demo (Animation GIF)
 <table>
@@ -24,9 +24,9 @@
     <td>GameView + LeaderboardView</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/WelcomeView%2BInfoView%2BMenuView.gif" width="280"></td>
-    <td><img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/MenuView%2BGameview.gif" width="280"></td>
-    <td><img src="https://github.com/quocminh238/Quiz-Game/blob/main/screenshots/GameView%2BLeaderboardView.gif" width="280"></td>
+    <td><img src="https://github.com/quocm1nh238/quiz-game-app-ios/blob/main/screenshots/WelcomeView%2BInfoView%2BMenuView.gif" width="280"></td>
+    <td><img src="https://github.com/quocm1nh238/quiz-game-app-ios/blob/main/screenshots/MenuView%2BGameview.gif" width="280"></td>
+    <td><img src="https://github.com/quocm1nh238/quiz-game-app-ios/blob/main/screenshots/GameView%2BLeaderboardView.gif" width="280"></td>
    </tr>
 
  </table>
